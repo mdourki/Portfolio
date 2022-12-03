@@ -1,4 +1,3 @@
-import resume from '../assets/pdf/cv2023.pdf'
 import pdp from '../assets/png/bPdp.jpg'
 
 export const headerData = {
