@@ -1,4 +1,5 @@
 import pdp from '../assets/png/bPdp.jpg'
+import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Dourki Mohamed',
