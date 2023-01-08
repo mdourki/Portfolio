@@ -4,6 +4,7 @@
     'Javascript',
     'Bootstrap',
     'React',
+    'Angular',
     'Firebase',
     'Python',
     'Django',
