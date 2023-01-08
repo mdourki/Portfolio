@@ -11,6 +11,7 @@ import netflix from '../assets/prjctsImgs/netflix.png'
 import starbucks from '../assets/prjctsImgs/starbucks.png'
 import wms from '../assets/prjctsImgs/wms.png'
 import gitUsers from '../assets/prjctsImgs/gitUsers.png'
+import tasksApp from '../assets/prjctsImgs/tasksApp.png'
 
 
 export const projectsData = [
@@ -34,12 +35,12 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'WMS Frontend',
-        projectDesc: 'Frontend part of a WMS Web App',
-        tags: ['React', 'Material UI'],
-        code: 'https://github.com/mdourki/wms_frontend',
+        projectName: 'Tasks App',
+        projectDesc: 'Simple Angular CRUD app that manages tasks',
+        tags: ['Angular', 'Bootstrap', 'json-server'],
+        code: 'https://github.com/mdourki/Angular-with-json-server',
         demo: '',
-        image: wms
+        image: tasksApp
     },
     {
         id: 4,
@@ -52,6 +53,15 @@ export const projectsData = [
     },
     {
         id: 5,
+        projectName: 'WMS Frontend',
+        projectDesc: 'Frontend part of a WMS Web App',
+        tags: ['React', 'Material UI'],
+        code: 'https://github.com/mdourki/wms_frontend',
+        demo: '',
+        image: wms
+    },
+    {
+        id: 6,
         projectName: 'Git-Users',
         projectDesc: 'Web App that shows git users and helps you to search between them',
         tags: ['React', 'Material UI', 'API.Github'],
