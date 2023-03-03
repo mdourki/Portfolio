@@ -240,3 +240,13 @@
     top: 20%;
   }
 }
+
+#atosLink:link {
+  text-decoration: underline;
+  color: #eaeaea;
+}
+
+#atosLink:visited {
+  text-decoration: underline;
+  color: #545fc4;
+}

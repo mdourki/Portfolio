@@ -24,7 +24,10 @@ function About() {
                     {aboutData.description3}<br/>
                     {aboutData.description4}<br/>
                     {aboutData.description5}<br/><br/>
-                    {aboutData.description6}<br/></p>
+                    {aboutData.description6}<br/>
+                    {aboutData.description7}<br/>
+                    {aboutData.description8}<br/><br/>
+                    {aboutData.description9}<br/></p>
                 </div>
                 <div className="about-img">
                     <img 

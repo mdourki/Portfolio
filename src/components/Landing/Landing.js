@@ -161,7 +161,10 @@ function Landing() {
                     >
                         <h6>{headerData.title}</h6>
                         <h1>{headerData.name}</h1>
-                        <p>{headerData.desciption}</p>
+                        <p>
+                            {headerData.desciption}
+                            <b><a href='https://atos.net/fr/morocco' target="_blank" id='atosLink'>Atos</a></b>.
+                        </p>
 
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
