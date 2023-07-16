@@ -4,7 +4,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Dourki Mohamed',
     title: "Fullstack Developer",
-    desciption:"Computer Engineering Student enthusiastic and ambitious learner, curious about different fields and always up for new challenges. I'm currently conducting my end of studies internship at ",
+    desciption:"State Engineer in Computer Science enthusiastic and ambitious learner, curious about different fields and always up for new challenges. I'm currently conducting my end of studies internship at ",
     image: pdp,
     resumePdf: resume
 }
