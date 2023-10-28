@@ -163,7 +163,7 @@ function Landing() {
                         <h1>{headerData.name}</h1>
                         <p>
                             {headerData.desciption}
-                            <b><a href='https://atos.net/fr/morocco' target="_blank" id='atosLink'>Atos</a></b>.
+                            {/*<b><a href='https://atos.net/fr/morocco' target="_blank" id='atosLink'>Atos</a></b>.*/}
                         </p>
 
                         <div className='lcr-buttonContainer'>
