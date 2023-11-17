@@ -8,6 +8,7 @@
     'Firebase',
     'Python',
     'Django',
+    'Odoo',
     'PHP',
     'Java',
     'Spring',
@@ -17,10 +18,10 @@
     'MySQL',
     'Oracle',
     'SQL Server',
-
+    'PostgreSQL',
     'Git',
+    'Docker',
     'Ubuntu',
-
     'Microsoft Office',
 ]
 

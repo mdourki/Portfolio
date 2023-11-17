@@ -81,6 +81,8 @@ import oracle from '../assets/svg/skills/oracle.svg'
 import sqlserver from '../assets/svg/skills/sqlserver.png'
 import spring from '../assets/svg/skills/spring.svg'
 
+import odoo from '../assets/svg/skills/odoo.svg'
+
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
@@ -240,6 +242,8 @@ export const skillsImage = (skill) => {
             return sqlserver;
         case 'spring':
             return spring;
+        case 'odoo':
+            return odoo;
         default:
             break;
     }
