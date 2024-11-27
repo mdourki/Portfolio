@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who am I",
-    description1: "Hello! My name is Dourki Mohamed, a fullstack developer based in Morocco.",
+    description1: "Hello! My name is Dourki Mohamed, a Full Stack Developer based in Morocco.",
     description2: "Thanks to my different experiences, I have been able to develop these last years skills in terms of:",
     description3: "- Project management.",
     description4: "- Database modeling.",
